@@ -4,7 +4,7 @@ Welcome to **NLP Practice Grounds**! 🌟 This repository serves as a collection
 
 ## 📌 Repository Overview
 This repository contains notebooks covering:
-- **Text Preprocessing**: Tokenization, Lemmatization, Stemming, etc.
+- **Text Preprocessing**: Tokenization, Lemmatization, Stop Words, Stemming, etc.
 - **Feature Extraction**: Bag of Words, TF-IDF, Word Embeddings (Word2Vec, GloVe, FastText), etc.
 - **NLP Models**: Sentiment Analysis, Named Entity Recognition (NER), Text Classification, etc.
 - **Advanced NLP**: Sequence Models, Attention Mechanisms, Transformers, BERT, GPT, etc.
